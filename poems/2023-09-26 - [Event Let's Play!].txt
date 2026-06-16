@@ -1,0 +1,16 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2023-09-24"]
+[White "TheNebuchadnezzar"]
+[Black "jm201175"]
+[Result "1-0"]
+[WhiteElo "1013"]
+[BlackElo "1063"]
+[TimeControl "1/86400"]
+[EndDate "2023-09-25"]
+[Termination "TheNebuchadnezzar won by resignation"]
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Bg4 5. h3 Bf5 6. Bd3 e6 7. O-O Qf6 8. Nc3
+Be7 9. Nb5 Na6 10. Nc3 Nb4 11. Bxf5 Qxf5 12. Re1 Qxc2 13. Qe2 Nf6 14. Qb5+ Nc6
+15. Qxb7 O-O 16. Qxc6 Ne4 17. Re2 Rac8 18. Qxc8 Qxe2 19. Qxf8+ Kxf8 20. Nxe2 a5
+21. Nc3 f5 22. a4 Bb4 23. Nxe4 dxe4 24. Ne5 Ke7 25. Nc6+ Kd6 26. Nxb4 axb4 27.
+a5 Kc6 28. a6 1-0
